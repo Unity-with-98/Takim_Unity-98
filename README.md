@@ -30,32 +30,37 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - Sprint içinde tamamlanması tahmin edilen puan: 90 puan
  - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 90 puan ile başlaması gerektiğine karar verildi.
  - Daily Scrum: Daily Scrum toplantılarının kullanım kolaylığından dolayı Whatsapp üzerinden yapılmasına karar verildi.
- - Sprint board update: Sprint board screenshotları:
- - ![Screenshot (7)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/443fe10c-cb71-46eb-bb1f-3b424b774f63)
+ - Sprint board update: Sprint board screenshotları:![Screenshot (7)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a85c3b60-5997-410b-9b7e-01139e0e12fe)
+
  - Ürün Durumu: Ekran Görüntüleri: Engelleri tasarımını Sprint1 sonuna kadar tamamladık.
- - Engel 1: ![Screenshot (12)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/109bb79a-15ad-4da9-91ab-46c804e5430e)
- - Dikenli Engel: ![Screenshot (13)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/ac8b9e67-9179-46f0-bc99-e7a7974dd6b8)
- - El Arbası: ![Screenshot (14)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/d67b925d-2dc0-45e2-9760-af5afb7af459)
- - Çamur Birikintisi: ![Screenshot (15)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/b5ec6abe-ba34-4637-9cd3-77fd11836b66)
- - Ağaç1: ![Screenshot (18)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/d9c520ec-1737-4c84-814e-1ba2aa84123b)
- - Ağaç2: ![Screenshot (19)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/11e99798-8402-4ff1-9a73-1c0593c4f4d5)
+ - Engel 1: ![Screenshot (12)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/9afafb8a-d938-47a4-a02e-283c39ee2489)
+ - Dikenli Engel: ![Screenshot (13)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/4a40fd40-42b7-42a8-89dc-bcb43eb3f586)
+ - El Arbası: ![Screenshot (14)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/4a0f4f7a-4e98-4a56-a0d9-8204411172c8)
+ - Çamur Birikintisi: ![Screenshot (15)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a614bc01-da21-4173-aa36-b065ecb7cef6)
+ - Ağaç1: ![Screenshot (16)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/d465ca6e-5a83-4d1e-83d0-266e895ed4a1)
+ - Ağaç2: ![Screenshot (17)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/4e85068f-f134-4547-903f-0f5136aab371)
  - Sprint Review: İlk sprintte belirlenen görevler başarıyla tamamlanmış ve oyunun temel özellikleri oluşturulmuştur, engelleri tasarlanmıştır. İlerleyen sprintlerde bu temel özelliklere ek olarak oyunun daha da zenginleştirilmesi ve geliştirilmesi planlanmaktadır.
  - Sprint Review katılımcıları: Zelal Aras
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 2
  - Sprint içinde tamamlanması tahmin edilen puan: 120 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
- - Sprint board update: Sprint board screenshotları: ![Screenshot (21)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/533bceca-4f50-4341-8d1f-34cfb183a26f)
+ - Sprint board update: Sprint board screenshotları: ![Screenshot (21)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a31e52d3-bfd7-422a-8c3e-0dbebfad8160)
+
+
  - Ürün Durumu: Ekran görüntüleri:
- - Top: ![Screenshot (22)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/fa1355b7-399d-4e42-9f16-aba0645a0f27)
- - Elmas: ![Screenshot (23)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/9846733f-ff7a-4d6e-8b28-c6882714696c)
+ - Top: ![Screenshot (22)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/ca82d655-00c6-40b6-9508-8d0750719908)
+
+ - Elmas: ![Screenshot (23)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a17efd7c-c60d-48d2-9fd3-403278e01320)
+
  - Sprint Review: Alınan kararlar:  Top, elmas ve oyun sahnesi tasarlandı ve iyileştirmeler yapıldı.
  - Sprint Review katılımcıları:  Alperen Şimşek
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 3
  - Sprint içinde tamamlanması tahmin edilen puan: 250 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
- - Sprint board update: Sprint board screenshotları:![Screenshot (25)](https://github.com/Unity-98/Takim_Unity-98/assets/139617862/6cf28eb0-4ceb-4493-85b5-61da3d3ed058)
+ - Sprint board update: Sprint board screenshotları:![Screenshot (25)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/ec2d0606-986a-482d-af85-18efdf80b431)
+
  - Ürün Durumu: Ekran görüntüleri:
  
  - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır.Bu süreçte istenilen hedefe ulaşılmıştır.
