@@ -46,22 +46,22 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - Sprint içinde tamamlanması tahmin edilen puan: 120 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
  - Sprint board update: Sprint board screenshotları: ![Screenshot (21)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a31e52d3-bfd7-422a-8c3e-0dbebfad8160)
-
-
  - Ürün Durumu: Ekran görüntüleri:
  - Top: ![Screenshot (22)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/ca82d655-00c6-40b6-9508-8d0750719908)
-
  - Elmas: ![Screenshot (23)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a17efd7c-c60d-48d2-9fd3-403278e01320)
-
- - Sprint Review: Alınan kararlar:  Top, elmas ve oyun sahnesi tasarlandı ve iyileştirmeler yapıldı.
- - Sprint Review katılımcıları:  Alperen Şimşek
+ - Sprint Review: Alınan kararlar: Top, elmas ve oyun sahnesi tasarlandı ve iyileştirmeler yapıldı.
+ - Sprint Review katılımcıları: Alperen Şimşek
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 3
  - Sprint içinde tamamlanması tahmin edilen puan: 250 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
  - Sprint board update: Sprint board screenshotları:![Screenshot (25)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/ec2d0606-986a-482d-af85-18efdf80b431)
-
- - Ürün Durumu: Ekran görüntüleri: https://drive.google.com/drive/folders/1St0492kUJLld4U03RN0OxuVs4piJjnNV?usp=sharing
+ - Ürün Durumu: Ekran görüntüleri:
+ - ![Screenshot (30)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/bf73d64b-c874-4db1-a6f5-ba5ad02e7bb8)
+ - ![Screenshot (31)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/774feba3-3f08-4b7a-b102-9476c1189b40)
+ - ![Screenshot (32)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/f8e407f2-6e72-4b42-9135-a6d0ab376841)
+  Oyun videosunun boyutu büyük olduğundan dolayı link olarak paylaşmaya karar verdik.
+ - https://drive.google.com/drive/folders/1St0492kUJLld4U03RN0OxuVs4piJjnNV?usp=sharing
  
  - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır.Bu süreçte istenilen hedefe ulaşılmıştır.
  - Sprint Review katılımcıları: Berke Şimşek
