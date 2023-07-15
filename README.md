@@ -61,7 +61,7 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
  - Sprint board update: Sprint board screenshotları:![Screenshot (25)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/ec2d0606-986a-482d-af85-18efdf80b431)
 
- - Ürün Durumu: Ekran görüntüleri:
+ - Ürün Durumu: Ekran görüntüleri: https://drive.google.com/drive/folders/1St0492kUJLld4U03RN0OxuVs4piJjnNV?usp=sharing
  
  - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır.Bu süreçte istenilen hedefe ulaşılmıştır.
  - Sprint Review katılımcıları: Berke Şimşek
