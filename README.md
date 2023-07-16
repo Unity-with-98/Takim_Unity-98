@@ -25,10 +25,15 @@ Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyun
 ## Hedef Kitlesi
 Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındaki kullanıcılar için de erişilebilir ve keyifli olabilir. Aynı zamanda, mobil oyunlara erişimi olan ve kısa süreli oyun seanslarıyla zaman geçirmek isteyen oyuncular da hedef kitleye dahil olabilir.
 ## Jüriye Not
-Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o yüzden 4 kişi devam etmek zorunda kaldık. Fakat ilerleyen zamanda da bir kişinin daha akademiyi bıraktığını öğrendik ve sadece üç kişinin çabalarıyla bir proje çıkarmaya çabaladık.
+- Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o yüzden 4 kişi devam etmek zorunda kaldık. Fakat ilerleyen zamanda da bir kişinin daha akademiyi bıraktığını öğrendik ve sadece üç kişinin çabalarıyla bir proje çıkarmaya çabaladık.
+- Oyunumuzdaki kontroller aşağıdaki gibidir:
+    - Zıplama: W
+    - Sol: A
+    - Sağ: D
+    - Reset: R
 # Sprint 1
- - Sprint içinde tamamlanması tahmin edilen puan: 90 puan
- - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 90 puan ile başlaması gerektiğine karar verildi.
+ - Sprint içinde tamamlanması tahmin edilen puan: 100 puan
+ - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 puan ile başlaması gerektiğine karar verildi.
  - Daily Scrum: Daily Scrum toplantılarının kullanım kolaylığından dolayı Whatsapp üzerinden yapılmasına karar verildi.
  - Sprint board update: Sprint board screenshotları: ![Screenshot (7)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a949a6ab-c199-454d-9038-a36aff24fa0d)
 
@@ -50,7 +55,7 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - Sprint Review katılımcıları: Zelal Aras
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 2
- - Sprint içinde tamamlanması tahmin edilen puan: 120 puan
+ - Sprint içinde tamamlanması tahmin edilen puan: 100 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
  - Sprint board update: Sprint board screenshotları: ![Screenshot (21)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/80b88a14-6e4c-486b-afcd-69cc1c82c512)
 
@@ -63,7 +68,8 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - Sprint Review katılımcıları: Alperen IŞIK
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 3
- - Sprint içinde tamamlanması tahmin edilen puan: 250 puan
+ - Sprint içinde tamamlanması tahmin edilen puan: 140 puan. 340 puana tamamlamak için kalan puan 140 puan olduğundan dolayı 3. sprintte 140 puan toplanılması 
+ hedeflenmiştir.
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
  - [Daily Scrum.docx](https://github.com/Unity-with-98/Takim_Unity-98/files/12064206/Daily.Scrum.docx)
 
