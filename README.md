@@ -77,5 +77,7 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
   Oyun videosunun boyutu büyük olduğundan dolayı link olarak paylaşmaya karar verdik.
  - https://drive.google.com/drive/folders/1St0492kUJLld4U03RN0OxuVs4piJjnNV?usp=sharing
  
- - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır.Bu süreçte istenilen hedefe ulaşılmıştır.
+ - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır. Bu süreçte istenilen hedefe ulaşılmıştır.
  - Sprint Review katılımcıları: Berke Şimşek
+ - Sprint Retrospective: Takım üyelerinin gelecek projelerde aktif olması gerektiğine vurgu yapılmıştır.
+
