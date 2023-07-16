@@ -13,7 +13,7 @@ Ball the Way
 ## Product Backlog URL
 https://miro.com/app/board/uXjVM1kDkvA=/?share_link_id=833004783764
 ## Ürün Açıklaması
-Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyuncunun bir topu kontrol ederek engelleri aşarak elmasları toplamasıdır. Top, otomatik olarak ileriye doğru hareket eder ve oyuncu yalnızca topun yönünü değiştirebilir. Oyun ilerledikçe, engellerin zorluğu artar ve oyuncunun refleksleri ve dikkati test edilir. Ayrıca, bazı seviyelerde bonus noktaları veya güçlendiriciler de bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar. Oyun genellikle hızlı tempolu bir şekilde ilerler ve oyuncunun hızlı düşünmesi ve tepki vermesi gereken birçok anı içerir. Amaç, engelleri aşarken mümkün olduğunca uzun bir mesafe kat etmek ve en yüksek puanı elde etmektir.  Ball the Way, kolay öğrenilebilir kontrolleri, eğlenceli seviyeleri ve rekabetçi bir atmosferiyle oyunculara keyifli bir zaman geçirme imkanı sunar.
+Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyuncunun bir topu kontrol ederek engelleri aşarak elmasları toplamasıdır. Top, otomatik olarak ileriye doğru hareket eder ve oyuncu yalnızca topun yönünü değiştirebilir. Oyun ilerledikçe, engellerin zorluğu artar ve oyuncunun refleksleri ve dikkati test edilir. Ayrıca, bazı seviyelerde bonus noktaları da bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar. Oyun genellikle hızlı tempolu bir şekilde ilerler ve oyuncunun hızlı düşünmesi ve tepki vermesi gereken birçok anı içerir. Amaç, engelleri aşarken mümkün olduğunca uzun bir mesafe kat etmek ve en yüksek puanı elde etmektir. Ball the Way, kolay öğrenilebilir kontrolleri, eğlenceli seviyeleri ve rekabetçi bir atmosferiyle oyunculara keyifli bir zaman geçirme imkanı sunar.
 ## Ürün Özelllikleri
 -Basit Kontroller: Oyunun kontrolleri kullanıcı dostu ve kolaydır. Oyuncu, topun yönünü değiştirmek için ekrana dokunabilir veya sürükleyebilir.
 
@@ -21,7 +21,7 @@ Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyun
 
 -Hızlı ve Hızlandırıcı Oyun Hızı: Oyun, hızlı tempolu bir şekilde ilerler ve zamanla hızı artar. Bu, oyuncunun reflekslerini test eder ve daha zorlu engellerle başa çıkmalarını gerektirir.
 
--Bonus Noktaları ve Güçlendiriciler: Bazı seviyelerde bonus noktaları veya güçlendiriciler bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar.
+-Bonus Noktaları: Bazı seviyelerde bonus noktaları bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar.
 ## Hedef Kitlesi
 Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındaki kullanıcılar için de erişilebilir ve keyifli olabilir. Aynı zamanda, kısa süreli oyun seanslarıyla zaman geçirmek isteyen oyuncular da hedef kitleye dahil olabilir.
 ## Jüriye Not
