@@ -4,7 +4,7 @@ Takım Unity 98
 # Ürün İle İlgili Bilgiler #
 ## Takım Elemanları
 - Alperen Işık: Scrum Master / Developer
-- Berke Şimşek: Product Owner / Developer
+- Berke Şimşek: Product Owner / 3D Artist
 - Dilber Zelal Aras: Developer
 - Doruk Kaptan: Aktif Olmayan Üye
 - Sıla Avcı: Aktif Olmayan Üye
@@ -60,7 +60,7 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - Elmas: ![Screenshot (23)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/4fdc8a1f-b4e8-4164-926a-c8c8f8ca7cd7)
 
  - Sprint Review: Alınan kararlar: Top, elmas ve oyun sahnesi tasarlandı ve iyileştirmeler yapıldı.
- - Sprint Review katılımcıları: Alperen Şimşek
+ - Sprint Review katılımcıları: Alperen IŞIK
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 3
  - Sprint içinde tamamlanması tahmin edilen puan: 250 puan
