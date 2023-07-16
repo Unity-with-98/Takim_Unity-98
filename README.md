@@ -17,13 +17,13 @@ Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyun
 ## Ürün Özelllikleri
 -Basit Kontroller: Oyunun kontrolleri kullanıcı dostu ve kolaydır. Oyuncu, topun yönünü değiştirmek için ekrana dokunabilir veya sürükleyebilir.
 
--Engeller ve Seviyeler: Oyun, çeşitli engeller içeren farklı seviyelerden oluşur. Engeller, engel tahtaları, engel duvarları, çukurlar, dönen engeller gibi farklı türlerde olabilir.
+-Engeller ve Seviyeler: Oyun, çeşitli engeller içeren farklı seviyelerden oluşur. Engeller; engel tahtaları, engel duvarları, çukurlar, dönen engeller gibi farklı türlerde olabilir.
 
 -Hızlı ve Hızlandırıcı Oyun Hızı: Oyun, hızlı tempolu bir şekilde ilerler ve zamanla hızı artar. Bu, oyuncunun reflekslerini test eder ve daha zorlu engellerle başa çıkmalarını gerektirir.
 
 -Bonus Noktaları ve Güçlendiriciler: Bazı seviyelerde bonus noktaları veya güçlendiriciler bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar.
 ## Hedef Kitlesi
-Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındaki kullanıcılar için de erişilebilir ve keyifli olabilir. Aynı zamanda, mobil oyunlara erişimi olan ve kısa süreli oyun seanslarıyla zaman geçirmek isteyen oyuncular da hedef kitleye dahil olabilir.
+Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındaki kullanıcılar için de erişilebilir ve keyifli olabilir. Aynı zamanda, kısa süreli oyun seanslarıyla zaman geçirmek isteyen oyuncular da hedef kitleye dahil olabilir.
 ## Jüriye Not
 - Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o yüzden 4 kişi devam etmek zorunda kaldık. Fakat ilerleyen zamanda da bir kişinin daha akademiyi bıraktığını öğrendik ve sadece üç kişinin çabalarıyla bir proje çıkarmaya çabaladık.
 - Oyunumuzdaki kontroller aşağıdaki gibidir:
@@ -65,7 +65,7 @@ Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındak
  - Elmas: ![Screenshot (23)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/4fdc8a1f-b4e8-4164-926a-c8c8f8ca7cd7)
 
  - Sprint Review: Alınan kararlar: Top, elmas ve oyun sahnesi tasarlandı ve iyileştirmeler yapıldı.
- - Sprint Review katılımcıları: Alperen IŞIK
+ - Sprint Review katılımcıları: Alperen Işık
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 3
  - Sprint içinde tamamlanması tahmin edilen puan: 140 puan. 340 puana tamamlamak için kalan puan 140 puan olduğundan dolayı 3. sprintte 140 puan toplanılması 
