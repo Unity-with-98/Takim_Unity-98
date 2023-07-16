@@ -65,6 +65,8 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
 # Sprint 3
  - Sprint içinde tamamlanması tahmin edilen puan: 250 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
+ - [Daily Scrum.docx](https://github.com/Unity-with-98/Takim_Unity-98/files/12064206/Daily.Scrum.docx)
+
  - Sprint board update: Sprint board screenshotları:![Screenshot (25)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/b392d25f-289e-4ac0-9c62-834d21b7aa6a)
 
  - Ürün Durumu: Ekran görüntüleri:
