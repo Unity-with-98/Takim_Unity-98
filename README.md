@@ -13,7 +13,7 @@ Ball the Way
 ## Product Backlog URL
 https://miro.com/app/board/uXjVM1kDkvA=/?share_link_id=833004783764
 ## Ürün Açıklaması
-Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyuncunun bir topu kontrol ederek engelleri aşarak elmasları toplamasıdır. Top, otomatik olarak ileriye doğru hareket eder ve oyuncu yalnızca topun yönünü değiştirebilir. Oyun ilerledikçe, engellerin zorluğu artar ve oyuncunun refleksleri ve dikkati test edilir. Ayrıca, bazı seviyelerde bonus noktaları da bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar. Oyun genellikle hızlı tempolu bir şekilde ilerler ve oyuncunun hızlı düşünmesi ve tepki vermesi gereken birçok anı içerir. Amaç, engelleri aşarken mümkün olduğunca uzun bir mesafe kat etmek ve en yüksek puanı elde etmektir. Ball the Way, kolay öğrenilebilir kontrolleri, eğlenceli seviyeleri ve rekabetçi bir atmosferiyle oyunculara keyifli bir zaman geçirme imkanı sunar.
+Ball the Way, basit kontrollerle oynanan bir oyundur. Oyunun temel amacı, oyuncunun bir topu kontrol ederek engelleri aşarak elmasları toplamasıdır. Top, otomatik olarak ileriye doğru hareket eder ve oyuncu yalnızca topun yönünü değiştirebilir. Oyun ilerledikçe, engellerin zorluğu artar ve oyuncunun refleksleri ve dikkati test edilir. Ayrıca, bazı seviyelerde bonus noktaları da bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar. Oyun genellikle hızlı tempolu bir şekilde ilerler ve oyuncunun hızlı düşünmesi ve tepki vermesi gereken birçok anı içerir. Amaç, engelleri aşarken mümkün olduğunca uzun bir mesafe kat etmek ve en yüksek puanı elde etmektir. Ball the Way, kolay öğrenilebilir kontrolleri, eğlenceli seviyeleri oyunculara keyifli bir zaman geçirme imkanı sunar.
 ## Ürün Özelllikleri
 -Basit Kontroller: Oyunun kontrolleri kullanıcı dostu ve kolaydır. Oyuncu, topun yönünü değiştirmek için ekrana dokunabilir veya sürükleyebilir.
 
@@ -22,6 +22,7 @@ Ball the Way, basit kontrollerle oynanan bir oyundur.  Oyunun temel amacı, oyun
 -Hızlı ve Hızlandırıcı Oyun Hızı: Oyun, hızlı tempolu bir şekilde ilerler ve zamanla hızı artar. Bu, oyuncunun reflekslerini test eder ve daha zorlu engellerle başa çıkmalarını gerektirir.
 
 -Bonus Noktaları: Bazı seviyelerde bonus noktaları bulunabilir. Bonus noktaları toplamak oyuncuya ek puanlar veya avantajlar sağlar.
+
 ## Hedef Kitlesi
 Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındaki kullanıcılar için de erişilebilir ve keyifli olabilir. Aynı zamanda, kısa süreli oyun seanslarıyla zaman geçirmek isteyen oyuncular da hedef kitleye dahil olabilir.
 ## Jüriye Not
@@ -33,7 +34,7 @@ Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındak
     - Reset: R
 # Sprint 1
  - Sprint içinde tamamlanması tahmin edilen puan: 100 puan
- - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 puan ile başlaması gerektiğine karar verildi.
+ - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 puan ile başlaması gerektiğine karar verildi.
  - Daily Scrum: Daily Scrum toplantılarının kullanım kolaylığından dolayı Whatsapp üzerinden yapılmasına karar verildi.
  - Sprint board update: Sprint board screenshotları: ![Screenshot (7)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/a949a6ab-c199-454d-9038-a36aff24fa0d)
 
@@ -55,7 +56,7 @@ Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındak
  - Sprint Review katılımcıları: Zelal Aras
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 2
- - Sprint içinde tamamlanması tahmin edilen puan: 100 puan
+ - Sprint içinde tamamlanması tahmin edilen puan: 120 puan
  - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
  - Sprint board update: Sprint board screenshotları: ![Screenshot (21)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/80b88a14-6e4c-486b-afcd-69cc1c82c512)
 
@@ -68,9 +69,10 @@ Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındak
  - Sprint Review katılımcıları: Alperen Işık
  - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 # Sprint 3
- - Sprint içinde tamamlanması tahmin edilen puan: 140 puan. 340 puana tamamlamak için kalan puan 140 puan olduğundan dolayı 3. sprintte 140 puan toplanılması 
- hedeflenmiştir.
- - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir.
+ - Sprint Notları: Oyunda son düzenlemeler ve iyileştirmeler yapılmış ve oyunumuz tarafımızca denetlenmiş olup herhangi bir hataya rastlanmamıştır.
+ - Sprint içinde tamamlanması tahmin edilen puan: 160 puan.
+ - Puan Tamamlama Mantığı: 380 puana tamamlamak için kalan puan 160 puan olduğundan dolayı 3.sprintte 160 puan toplanılması hedeflenmiştir.
+ - Daily Scrum: Daily Scrum yazışmaları Whatsapp üzerinden devam etmektedir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: .
  - [Daily Scrum.docx](https://github.com/Unity-with-98/Takim_Unity-98/files/12064206/Daily.Scrum.docx)
 
  - Sprint board update: Sprint board screenshotları:![Screenshot (25)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/b392d25f-289e-4ac0-9c62-834d21b7aa6a)
@@ -82,7 +84,7 @@ Oyunun basit kontrolleri ve eğlenceli oynanışı, çeşitli yaş gruplarındak
 
  - ![Screenshot (32)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/40c213f8-1171-4d9f-9e42-d28baac39976)
 
-  Oyun videosunun boyutu büyük olduğundan dolayı link olarak paylaşmaya karar verdik.
+  - Oyun videosunun boyutu büyük olduğundan dolayı link olarak paylaşmaya karar verdik.
  - https://www.youtube.com/watch?v=Bx2B6vttjwM
  
  - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır. Bu süreçte istenilen hedefe ulaşılmıştır.
