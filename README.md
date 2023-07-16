@@ -75,7 +75,7 @@ Gurubumuz oluştuğunda 1 kişinin akademiyi bıraktığını öğrendik ve o y�
  - ![Screenshot (32)](https://github.com/Unity-with-98/Takim_Unity-98/assets/139650727/40c213f8-1171-4d9f-9e42-d28baac39976)
 
   Oyun videosunun boyutu büyük olduğundan dolayı link olarak paylaşmaya karar verdik.
- - https://drive.google.com/drive/folders/1St0492kUJLld4U03RN0OxuVs4piJjnNV?usp=sharing
+ - https://www.youtube.com/watch?v=Bx2B6vttjwM
  
  - Sprint Review: Alınan kararlar: Oyun başarılı bir şekilde tamamlanmıştır. Bu süreçte istenilen hedefe ulaşılmıştır.
  - Sprint Review katılımcıları: Berke Şimşek
